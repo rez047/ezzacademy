@@ -12,7 +12,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     'eldovalleybaptistacademy.onrender.com',
     '127.0.0.1',
-    '.herokuapp.com',
+    'railway.app',
     'ezzacademy.onrender.com'# Other allowed hosts...
 ]
 
