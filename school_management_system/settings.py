@@ -11,6 +11,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'eldovalleybaptistacademy.onrender.com',
+    'theacademy.pythonanywhere.com'
     '127.0.0.1',
     'railway.app',
     'ezzacademy.onrender.com'# Other allowed hosts...
